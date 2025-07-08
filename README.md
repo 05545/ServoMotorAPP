@@ -174,7 +174,7 @@ private static final float SWEEP_ANGLE = 270;    // Rango de barrido
 - **Solución**: mantener dispositivos cerca (< 10 metros)
 
 #### 4. La app no responde
-- **Solución**: verificar que el ESP32 tenga el código correcto cargado, puedes descargarlo desde - [ESP-32-FIRMWARE-SERVO]([https://www.github.com/05545](https://github.com/05545/ESP32-ServoMotor-Bluetooth))
+- **Solución**: verificar que el ESP32 tenga el código correcto cargado, puedes descargarlo desde - [ESP-32-FIRMWARE-SERVO](https://github.com/05545/ESP32-ServoMotor-Bluetooth)
 - **Verificación**: monitor serial del ESP32 debe mostrar mensajes conforme a código cargado en el módulo.
 
 ### Logs de depuración
